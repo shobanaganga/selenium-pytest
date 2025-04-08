@@ -1,0 +1,36 @@
+04/08/2025 07:52:18 PM - INFO - TestSearchAndVerifyFilter : TEST CASE STARTED: FILTER DIRECT FLIGHTS
+04/08/2025 07:52:18 PM - INFO - LaunchPage : STEP 1 : Clicking on Depart From Auto Suggestion Text Field
+04/08/2025 07:52:18 PM - INFO - LaunchPage : STEP 2 : Type Depart From Location New Delhi
+04/08/2025 07:52:19 PM - INFO - LaunchPage : STEP 3 : Select New Delhi from auto suggestion drop down
+04/08/2025 07:52:19 PM - INFO - LaunchPage : STEP 4 : Clicking on Going To Auto Suggestion Text Field
+04/08/2025 07:52:19 PM - INFO - LaunchPage : STEP 5 : Type Going To Location Mumbai
+04/08/2025 07:52:19 PM - INFO - LaunchPage : STEP 6 : Select Mumbai from auto suggestion drop down
+04/08/2025 07:52:19 PM - INFO - LaunchPage : STEP 7 : Click on Departure Date Field
+04/08/2025 07:52:20 PM - INFO - LaunchPage : STEP 8 : Select Departure Date
+04/08/2025 07:52:20 PM - INFO - LaunchPage : STEP 9 : click Search
+04/08/2025 07:52:37 PM - DEBUG - SearchFlightsResults : STEP 10 : Filter 0 stops
+04/08/2025 07:52:39 PM - INFO - TestSearchAndVerifyFilter : TEST CASE ENDED: FILTER DIRECT FLIGHTS
+04/08/2025 07:53:44 PM - INFO - TestSearchAndVerifyFilter : TEST CASE STARTED: FILTER Non Stop FLIGHTS
+04/08/2025 07:53:44 PM - INFO - LaunchPage : STEP 1 : Clicking on Depart From Auto Suggestion Text Field
+04/08/2025 07:53:44 PM - INFO - LaunchPage : STEP 2 : Type Depart From Location New Delhi
+04/08/2025 07:53:45 PM - INFO - LaunchPage : STEP 3 : Select New Delhi from auto suggestion drop down
+04/08/2025 07:53:45 PM - INFO - LaunchPage : STEP 4 : Clicking on Going To Auto Suggestion Text Field
+04/08/2025 07:53:45 PM - INFO - LaunchPage : STEP 5 : Type Going To Location Mumbai
+04/08/2025 07:53:45 PM - INFO - LaunchPage : STEP 6 : Select Mumbai from auto suggestion drop down
+04/08/2025 07:53:46 PM - INFO - LaunchPage : STEP 7 : Click on Departure Date Field
+04/08/2025 07:53:46 PM - INFO - LaunchPage : STEP 8 : Select Departure Date
+04/08/2025 07:53:46 PM - INFO - LaunchPage : STEP 9 : click Search
+04/08/2025 07:54:08 PM - DEBUG - SearchFlightsResults : STEP 10 : Filter 0 stops
+04/08/2025 07:54:11 PM - INFO - TestSearchAndVerifyFilter : TEST CASE ENDED: FILTER DIRECT FLIGHTS
+04/08/2025 07:54:24 PM - INFO - TestSearchAndVerifyFilter : TEST CASE STARTED: FILTER 1 Stop FLIGHTS
+04/08/2025 07:54:24 PM - INFO - LaunchPage : STEP 1 : Clicking on Depart From Auto Suggestion Text Field
+04/08/2025 07:54:24 PM - INFO - LaunchPage : STEP 2 : Type Depart From Location New Delhi
+04/08/2025 07:54:24 PM - INFO - LaunchPage : STEP 3 : Select New Delhi from auto suggestion drop down
+04/08/2025 07:54:24 PM - INFO - LaunchPage : STEP 4 : Clicking on Going To Auto Suggestion Text Field
+04/08/2025 07:54:25 PM - INFO - LaunchPage : STEP 5 : Type Going To Location Mumbai
+04/08/2025 07:54:25 PM - INFO - LaunchPage : STEP 6 : Select Mumbai from auto suggestion drop down
+04/08/2025 07:54:25 PM - INFO - LaunchPage : STEP 7 : Click on Departure Date Field
+04/08/2025 07:54:26 PM - INFO - LaunchPage : STEP 8 : Select Departure Date
+04/08/2025 07:54:26 PM - INFO - LaunchPage : STEP 9 : click Search
+04/08/2025 07:54:51 PM - INFO - SearchFlightsResults : STEP 10 : Filter 1 stops
+04/08/2025 07:54:54 PM - INFO - TestSearchAndVerifyFilter : TEST CASE ENDED: FILTER DIRECT FLIGHTS
