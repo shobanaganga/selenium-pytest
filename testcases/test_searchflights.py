@@ -24,8 +24,7 @@ class TestSearchAndVerifyFilter(softest.TestCase):
         self.sf.filter_stops(stop)
         all_1_stops = self.sf.get_search_flight_results()
         self.ut.assert_list_item(all_1_stops,stop)
-        self.log.info("TEST CASE ENDED: FILTER {} FLIGHTS".format(stop
-                                                                  ))
+        self.log.info("TEST CASE ENDED: FILTER {} FLIGHTS".format(stop))
 
 
     #def test_search_flights_1_stop(self):
