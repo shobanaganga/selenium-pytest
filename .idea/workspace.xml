@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40be1e5c-f0c4-4170-b608-0270efc78c4a" name="Default Changelist" comment="" />
+    <list default="true" id="40be1e5c-f0c4-4170-b608-0270efc78c4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/testcases/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -25,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/yatra_launch_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
+            <state relative-caret-position="1326">
               <caret line="80" column="46" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="46" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -37,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testcases/test_searchflights.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+            <state relative-caret-position="255">
+              <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -49,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcases/automation.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
+            <state relative-caret-position="408">
               <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="100" />
             </state>
           </provider>
@@ -59,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/pages/search_flight_results.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="39" lean-forward="true" selection-start-column="39" selection-end-line="7" selection-end-column="32" />
+              <caret column="39" selection-start-column="39" selection-end-line="7" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -67,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base/base_driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="85">
               <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -79,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilities/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+            <state relative-caret-position="323">
+              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -96,6 +99,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -119,6 +125,7 @@
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -154,6 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/testcases/test_searchflights.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -367,7 +375,7 @@
     <entry file="file://$PROJECT_DIR$/testcases/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -376,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/yatra_launch_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
+        <state relative-caret-position="1326">
           <caret line="80" column="46" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="46" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
@@ -384,16 +392,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/automation.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/search_flight_results.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-line="7" selection-end-column="32" />
+          <caret column="39" selection-start-column="39" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/base/base_driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="85">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -403,25 +418,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utilities/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        <state relative-caret-position="323">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/automation.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testcases/test_searchflights.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
+        <state relative-caret-position="255">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
