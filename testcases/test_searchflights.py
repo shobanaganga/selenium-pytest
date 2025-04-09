@@ -27,14 +27,6 @@ class TestSearchAndVerifyFilter(softest.TestCase):
         self.log.info("TEST CASE ENDED: FILTER {} FLIGHTS".format(stop))
 
 
-    #def test_search_flights_1_stop(self):
-        #self.log.info("TEST CASE STARTED: FILTER 1 STOP FLIGHTS")
-        #self.lp.searchflights("New Delhi","Mumbai","17")
-        #self.lp.page_scroll()
-        #self.sf.filter_stops("1 Stop")
-        #all_1_stops = self.sf.get_search_flight_results()
-        #self.ut.assert_list_item(all_1_stops,"1 Stop")
-        #self.log.info("TEST CASE ENDED: FILTER 1 STOP FLIGHTS")
 
 
 
