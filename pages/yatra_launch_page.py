@@ -16,7 +16,7 @@ class LaunchPage(BaseDriver):
     GOING_TO_FIELD = 'input-with-icon-adornment'
     GOING_TO_RESULT_LIST = '//div[@class="MuiStack-root css-1187icl"]//div[@class="fw-600 mb-0"]'
     DEPART_DATE = '(//div[@class="css-w7k25o"])[1]'
-    DEPART_DATE_RESULT_LIST = '//div[@class="react-datepicker__month-container"]//div[@aria-label="month  2025-04"]//span[1]'
+    DEPART_DATE_RESULT_LIST = '//div[@class="react-datepicker__month-container"]//div[@aria-label="month  2025-06"]//span[1]'
     SEARCH_BUTTON = '//button[normalize-space()="Search"]'
 
     def getDepartFrom(self):
